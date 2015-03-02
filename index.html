@@ -40,6 +40,32 @@
 
   </script>
 
+  <script type="text/x-handlebars" data-template-name="home23">
+
+    <h3>League Info</h3>
+
+    <ul>
+    {{#each item in info}}
+      <li>{{item}}</li>
+    {{/each}}
+    </ul>
+
+    <h3>Teams</h3>
+
+     {{#if teams.isLoaded}}
+     <ul> 
+       {{#each team in teams}}
+        {{#linkTo "team" team}}
+          <p> {{team.name}} </p>
+        {{/linkTo}}
+       {{/each}}
+     </ul>
+     {{else}}
+     <p class="loading">...Loading teams</p>
+     {{/if}}
+
+  </script>
+
   <script type="text/x-handlebars" data-template-name="team">
 
     <h3>Team Page: {{name}}</h3>
