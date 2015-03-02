@@ -30,7 +30,7 @@ PC.BballLeague.Team = DS.Model.extend({
 
 PC.BballLeague.Home33Route = Ember.Route.extend({
 	model: function () {
-		return ['Coed', 'Saturdays from 9AM-3PM', 'at Park Center']
+		return ['Coed234', 'Saturdays from 9AM-3PM', 'at Park Center']
 
 	},
 	setupController: function (controller, model) {
