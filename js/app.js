@@ -46,7 +46,7 @@ PC.BballLeague.Home23Route = Ember.Route.extend({
 	},
 	setupController: function (controller, model) {
 		controller.set('info', model)
-		//controller.set('teams', PC.BballLeague.Team.find());
+		controller.set('teams', PC.BballLeague.Team.find());
 	}
 });
 
