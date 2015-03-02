@@ -8,6 +8,9 @@ PC.BballLeague = Ember.Application.create({
 
 PC.BballLeague.Router.map(function () {
 	this.route("home33", {
+		path: "/"
+	});
+	this.route("home23", {
 		path: "/23"
 	});
 	this.resource('team', {
@@ -26,6 +29,17 @@ PC.BballLeague.Team = DS.Model.extend({
 })
 
 PC.BballLeague.Home33Route = Ember.Route.extend({
+	model: function () {
+		return ['Coed', 'Saturdays from 9AM-3PM', 'at Park Center']
+
+	},
+	setupController: function (controller, model) {
+		controller.set('info', model)
+		controller.set('teams', PC.BballLeague.Team.find());
+	}
+});
+
+PC.BballLeague.Home23Route = Ember.Route.extend({
 	model: function () {
 		return ['Coed', 'Saturdays from 9AM-3PM', 'at Park Center']
 
