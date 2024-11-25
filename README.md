@@ -318,10 +318,88 @@ BMI는 키와 체중의 비율이며, 이 식당에는 그것을 계산할 차�
 그들은 자신들이 무엇을 놓치고 있는지 모른다. 멜리사 그레이, AP, 런던.
 
 ## 한국어 영상
+- [데모 파일 보기](https://github.com/entrv/fecamp/blob/master/%5BYTN%20%EC%8B%A4%EC%8B%9C%EA%B0%84%EB%89%B4%EC%8A%A4%5D%201%EB%B6%84%20%EC%B0%A8%EC%9D%B4%EB%A1%9C%20%EC%B0%A9%EB%A5%99%20%EB%AA%BB%20%ED%95%B4...%EC%95%84%EC%8B%9C%EC%95%84%EB%82%98%20%ED%9A%8C%ED%95%AD.mp4)
+영상은 다운로드 하셔서 보시고 비교 해 보시면 됩니다.
 
 ## 한국어 srt
+1
+00:00:00.940 --> 00:00:06.880
+오늘 서울 최고 기온이 36도까지 오르는 등 올해 들어 가장 더운 날씨를 보였습니다.
+
+2
+00:00:07.000 --> 00:00:13.020
+이번 더위는 내일까지 이어진 뒤에 절기상 입추인 모레 조금 누그러들 전망입니다.
+
+3
+00:00:15.580 --> 00:00:24.120
+어젯밤 제주에서 부산으로 향하던 아시아나 여객기가 심야 2착륙 금지 시간이 시작된 직후에 도착해 착륙을 거절당했습니다.
+
+4
+00:00:24.120 --> 00:00:29.920
+일부 승객들은 인천공항까지 왔다가 버스를 타고 다시 부산으로 가는 불편을 겪었습니다.
+
+5
+00:00:30.000 --> 00:00:47.560
+이를 닦다가 갑자기 쓰러져 숨진 4살 어린이는
+
+6
+00:00:47.560 --> 00:00:51.640
+보름 동안 엄마에게 지속적으로 폭행을 당했던 것으로 드러났습니다
+
+7
+00:00:51.640 --> 00:00:54.880
+경찰은 엄마에 대해 구속영장을 신청했습니다
+
+8
+00:00:54.880 --> 00:01:02.580
+새누리당 전당대회에서 비박계 단일 후보로 주호영 의원이 결정됐습니다
+
+9
+00:01:02.580 --> 00:01:08.680
+더불어민주당 예비 경선에서는 예상을 깨고 주류 송영길 의원이 탈락하는 이변이 일어났습니다
+
 
 ## 영어 srt
+1
+00:00:00.000 --> 00:00:07.000
+Today, the highest temperature in Seoul rose to 36 degrees, and it was the hottest day of the year.
+
+2
+00:00:07.000 --> 00:00:15.000
+This heat will continue until tomorrow, and it is expected to cool down a little on the next day.
+
+3
+00:00:15.000 --> 00:00:24.000
+Last night, an Asian flight from Jeju to Busan refused to land right after the start of the late night landing ban.
+
+4
+00:00:24.000 --> 00:00:32.000
+Some passengers came all the way to Incheon Airport, then took a bus and went back to Busan.
+
+5
+00:00:32.000 --> 00:00:39.000
+On the second line of Incheon subway, where the accident was going on from the first day of operation, another accident occurred where power supply was cut off.
+
+6
+00:00:39.000 --> 00:00:44.000
+Some sections were stopped operating.
+
+7
+00:00:44.000 --> 00:00:51.000
+A 4-year-old child who suddenly collapsed after wiping his teeth was found to have been violently assaulted by his mother for a long time.
+
+8
+00:00:51.000 --> 00:00:56.000
+The police applied for an arrest warrant for the mother.
+
+9
+00:00:56.000 --> 00:01:02.000
+In the Saenuri Party General Assembly, a single candidate for the Bipartisan Party was decided.
+
+10
+00:01:02.000 --> 00:01:10.000
+In the preliminary election of the Democratic Party of Korea, a change occurred in which the main member, Song Myung-kyul, was eliminated.
+
 
 ## 의뢰
 - 데모 영상 과 비교 해 보시고 문의 주시면 됩니다.
