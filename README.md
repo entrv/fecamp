@@ -1,14 +1,18 @@
 [Watch Demo](https://github.com/entrv/fecamp/blob/master/%5B1%EB%B6%84%20%EB%93%A3%EA%B8%B0%5D%20%EA%B7%B8%EB%A6%BC%EC%B1%85%EC%9C%BC%EB%A1%9C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0%20%E2%9D%98.mp4)
-<video controls>
-  <source src="https://github.com/entrv/fecamp/blob/master/%5B1%EB%B6%84%20%EB%93%A3%EA%B8%B0%5D%20%EA%B7%B8%EB%A6%BC%EC%B1%85%EC%9C%BC%EB%A1%9C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0%20%E2%9D%98.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-영상은 다운로드 하셔서 보시면 됩니다.
+1분당 800원 으로 책정 하고 있습니다.
+속기 사무소가 아니므로 증거제출용 으로는 사용이 불가 합니다.
+
+fast-whisper 의 large-v3 모델을 선택 해서 ai 로 자동 생성 된 파일을 드립니다.
+그 외는 직접 수정 하셔야 합니다.
+
+
+영상은 다운로드 하셔서 보시고 비교 해 보시면 됩니다.
 문의 주시면 3 개의 파일로 드립니다.
 [원어 srt] [원어 -> 영어 srt] [영어 -> 한글 srt]
 
-비교 해 보시고 문의 주시면 됩니다.
+데모 영상 과 비교 해 보시고 문의 주시면 됩니다.
+
 [일어 생성]
 1
 00:00:00.000 --> 00:00:00.840
