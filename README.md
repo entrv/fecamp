@@ -14,7 +14,7 @@
 - [영어 -> 한글 srt]
 - 3 개의 파일을 드립니다. 단, 영어면 원어_srt 가 제공 되지 않습니다.
 
-## 비교 영상
+## 일본어 영상
 - [데모 파일 보기](https://github.com/entrv/fecamp/blob/master/%5B1%EB%B6%84%20%EB%93%A3%EA%B8%B0%5D%20%EA%B7%B8%EB%A6%BC%EC%B1%85%EC%9C%BC%EB%A1%9C%20%EC%9D%BC%EB%B3%B8%EC%96%B4%20%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0%20%E2%9D%98.mp4)
 영상은 다운로드 하셔서 보시고 비교 해 보시면 됩니다.
 
@@ -249,10 +249,10 @@ ai 가 만든 자막 입니다.
 00:01:07.500 --> 00:01:10.500
 자, 그럼 이타다키마수.
 
-## 영어로 된 예제
+## 영어 영상
 
 - [데모 파일 보기](https://github.com/entrv/fecamp/blob/master/1%EB%B6%84%20AP%EB%89%B4%EC%8A%A4%20%EC%B2%AD%EC%B7%A8%ED%9B%88%EB%A0%A8%201%20(%EC%98%81%EC%96%B4%EB%8C%80%EB%B3%B8%2B%ED%95%9C%EA%B5%AD%EC%96%B4%EB%9C%BB)%20-%20%EB%AC%B4%ED%95%9C%EC%98%81%EC%96%B4%EB%B4%89%EC%8C%A4%20(360p%2C%20h264%2C%20youtube).mp4)
-  
+  영상은 다운로드 하셔서 보시고 비교 해 보시면 됩니다.
 ## 영어 srt
 1
 00:00:00.000 --> 00:00:04.000
