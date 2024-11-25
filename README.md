@@ -249,7 +249,72 @@ ai 가 만든 자막 입니다.
 00:01:07.500 --> 00:01:10.500
 자, 그럼 이타다키마수.
 
+## 영어로 된 예제
 
+- [데모 파일 보기](https://github.com/entrv/fecamp/blob/master/1%EB%B6%84%20AP%EB%89%B4%EC%8A%A4%20%EC%B2%AD%EC%B7%A8%ED%9B%88%EB%A0%A8%201%20(%EC%98%81%EC%96%B4%EB%8C%80%EB%B3%B8%2B%ED%95%9C%EA%B5%AD%EC%96%B4%EB%9C%BB)%20-%20%EB%AC%B4%ED%95%9C%EC%98%81%EC%96%B4%EB%B4%89%EC%8C%A4%20(360p%2C%20h264%2C%20youtube).mp4)
+  
+## 영어 srt
+1
+00:00:00.000 --> 00:00:04.000
+There's no way a size zero model is going to want one of these.
+
+2
+00:00:04.000 --> 00:00:07.000
+But this London restaurant is trying to tempt them anyway.
+
+3
+00:00:07.000 --> 00:00:16.000
+Chicken pot pie, macaroni and cheese, burgers and steak are all free to any model who can prove a body mass index of 18 or less.
+
+4
+00:00:16.000 --> 00:00:21.000
+BMI is the ratio of height to weight, and this restaurant even has the chart to calculate it.
+
+5
+00:00:21.000 --> 00:00:23.000
+But so far, no takers.
+
+6
+00:00:23.000 --> 00:00:40.000
+It's all time to coincide with London's fashion week where designers are being pressured not to use skinny models in their shows and in Spain fashion show organizers barred five models from the catwalk because of their tiny physiques.
+
+7
+00:00:40.000 --> 00:00:46.000
+They don't know what they're missing. Melissa Gray, the Associated Press, London.
+
+## 한국어 srt
+0
+00:00:00,000 --> 00:00:01,000 
+ai 가 만든 자막 입니다.
+
+0
+00:00:00.000 --> 00:00:04.000
+사이즈 0 모델이 이 중 하나를 원할 방법은 없습니다.
+
+1
+00:00:04.000 --> 00:00:07.000
+그런데 어쨌든 이 런던 식당은 그들을 유혹하려고 해요.
+
+2
+00:00:07.000 --> 00:00:16.000
+치킨팟파이, 마카로니와 치즈, 햄버거, 스테이크는 모두 체질량지수 18 이하를 증명할 수 있는 모든 모델에게 무료입니다.
+
+3
+00:00:16.000 --> 00:00:21.000
+BMI는 키와 체중의 비율이며, 이 식당에는 그것을 계산할 차트도 있습니다.
+
+4
+00:00:21.000 --> 00:00:23.000
+하지만 아직까지, 테이커는 없습니다.
+
+5
+00:00:23.000 --> 00:00:40.000
+디자이너들이 쇼에 마른 모델을 쓰지 말라고 압박받고 있고 스페인에서는 패션쇼 주최측이 몸집이 작다는 이유로 5명의 모델을 캐트워크에서 제외한 런던의 패션 주간에 맞춰야 한다.
+
+6
+00:00:40.000 --> 00:00:46.000
+그들은 자신들이 무엇을 놓치고 있는지 모른다. 멜리사 그레이, AP, 런던.
+  
 ## 의뢰
 - 데모 영상 과 비교 해 보시고 문의 주시면 됩니다.
 
